@@ -1,0 +1,14 @@
+2023-08-06 06:54:27.578961 - Initialized conversion of CBT756
+2023-08-06 06:54:27.649291 - Received CBT.V505.FILE756.PDS from FILE756.XMI 
+2023-08-06 06:54:27.651535 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:54:27.652551 - Found $$DOC.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$$DOC
+2023-08-06 06:54:27.653602 - Found $GSDSMP1.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$GSDSMP1
+2023-08-06 06:54:27.654576 - Found $GSDSMP2.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$GSDSMP2
+2023-08-06 06:54:27.655473 - Found $GSDSMP3.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$GSDSMP3
+2023-08-06 06:54:27.656443 - Found $GSDSMP4.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$GSDSMP4
+2023-08-06 06:54:27.657380 - Found $GSDSMP5.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$GSDSMP5
+2023-08-06 06:54:27.658329 - Found $GSDSMP6.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$GSDSMP6
+2023-08-06 06:54:27.659280 - Found $SMPUTL.jcl (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/$SMPUTL
+2023-08-06 06:54:27.660168 - Found @FILE756.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/@FILE756
+2023-08-06 06:54:27.661175 - Found README.txt (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/README
+2023-08-06 06:54:27.662252 - Found RXJCL.rexx (text/plain) in CBT.V505.FILE756.PDS, moved to PDS/RXJCL
